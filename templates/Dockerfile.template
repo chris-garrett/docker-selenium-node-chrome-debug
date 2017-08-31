@@ -1,0 +1,4 @@
+FROM selenium/node-chrome-debug:${IMAGE_VERSION}
+MAINTAINER Chris Garrett (https://github.com/chris-garrett/docker-selenium-node-chrome-debug)
+LABEL description="Selenium Node Chrome Debug image ${IMAGE_VERSION}"
+RUN mkdir /home/seluser/downloads

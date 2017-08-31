@@ -1,0 +1,12 @@
+# ${IMAGE_NAME}
+
+* Selenium Node Chrome Debug
+
+## Usage
+
+```
+docker run --rm \
+      -v `pwd`/downloads:/home/seluser/downloads \
+      ${IMAGE_NAME}:${IMAGE_VERSION} 
+```
+
