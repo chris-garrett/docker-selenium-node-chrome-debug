@@ -7,6 +7,6 @@
 ```
 docker run --rm \
       -v `pwd`/downloads:/home/seluser/downloads \
-      chrisgarrett/selenium-node-chrome-debug:3.9.1 
+      chrisgarrett/selenium-node-chrome-debug:3.10.0 
 ```
 

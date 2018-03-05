@@ -1,5 +1,5 @@
 
-IMAGE_VERSION=3.9.1
+IMAGE_VERSION=3.10.0
 IMAGE_NAME=chrisgarrett/selenium-node-chrome-debug
 
 all: build
